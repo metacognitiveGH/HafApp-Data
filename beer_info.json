@@ -1,0 +1,1938 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-06-28",
+  "source": "Mahaffey's Beer Club curated beer information",
+  "beers": [
+    {
+      "status": "approved",
+      "name": "3 Floyds Calumet Queen",
+      "aliases": [
+        "Calumet Queen",
+        "Calumet Queen Kolsch"
+      ],
+      "brewery": "3 Floyds Brewing",
+      "breweryUrl": "https://www.3floyds.com/",
+      "style": "Kolsch-style ale",
+      "abv": 5.0,
+      "description": "A crisp, refreshing golden Kolsch-style summer ale with a light body.",
+      "tags": [
+        "kolsch",
+        "light-bodied",
+        "crisp",
+        "summer"
+      ],
+      "confidence": "high",
+      "sources": [
+        "3floyds.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "3 Floyds Turbo Reaper",
+      "aliases": [
+        "Turbo Reaper"
+      ],
+      "brewery": "3 Floyds Brewing",
+      "breweryUrl": "https://www.3floyds.com/",
+      "style": "West Coast-style India Pale Ale",
+      "abv": 7.0,
+      "description": "A West Coast-style IPA with bold hop aroma and tropical, citrus-forward notes.",
+      "tags": [
+        "ipa",
+        "west-coast",
+        "tropical",
+        "citrus",
+        "hoppy"
+      ],
+      "confidence": "high",
+      "sources": [
+        "3floyds.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Abita 40th Anniversary",
+      "aliases": [
+        "40th Anniversary Honey Blonde Ale",
+        "Abita 40th Anniversary Honey Blonde Ale"
+      ],
+      "brewery": "Abita Brewing Company",
+      "breweryUrl": "https://abita.com/",
+      "style": "Honey blonde ale",
+      "abv": 8.0,
+      "description": "A celebratory honey blonde ale brewed with bright hops and a touch of honey.",
+      "tags": [
+        "blonde",
+        "honey",
+        "anniversary",
+        "limited-release"
+      ],
+      "confidence": "high",
+      "sources": [
+        "abita.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Allagash White",
+      "aliases": [
+        "Allagash Belgian White",
+        "Allagash White Belgian-Style Wheat Beer"
+      ],
+      "brewery": "Allagash Brewing Company",
+      "breweryUrl": "https://www.allagash.com/",
+      "style": "Belgian-style wheat beer",
+      "abv": 5.2,
+      "description": "A hazy Belgian-style wheat beer spiced with coriander and Curacao orange peel.",
+      "tags": [
+        "wheat",
+        "belgian",
+        "witbier",
+        "citrus",
+        "coriander"
+      ],
+      "confidence": "high",
+      "sources": [
+        "allagash.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Ayinger Altbairisch Dunkel",
+      "aliases": [
+        "Ayinger Bavarian Dark Lager",
+        "Altbairisch Dunkel"
+      ],
+      "brewery": "Ayinger Privatbrauerei",
+      "breweryUrl": "https://www.ayinger.de/",
+      "style": "Munich dunkel",
+      "abv": 5.0,
+      "description": "A traditional Bavarian dark lager with a warm, malty profile, subtle coffee notes, and light hopping.",
+      "tags": [
+        "dunkel",
+        "lager",
+        "bavarian",
+        "malty",
+        "dark"
+      ],
+      "confidence": "high",
+      "sources": [
+        "merchantduvin.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Ballad Just Pressed",
+      "brewery": "Ballad Brewing",
+      "breweryUrl": "https://balladbrewing.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Bell's Oberon Light",
+      "aliases": [
+        "Oberon Light"
+      ],
+      "brewery": "Bell's Brewery",
+      "breweryUrl": "https://bellsbeer.com/",
+      "style": "Citrus wheat light ale",
+      "abv": 4.0,
+      "description": "A light-bodied citrus wheat ale with bright orange notes and a crisp, refreshing finish.",
+      "tags": [
+        "wheat",
+        "citrus",
+        "orange",
+        "light-bodied",
+        "summer"
+      ],
+      "confidence": "high",
+      "sources": [
+        "bellsbeer.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Best Day Brewing West Coast IPA",
+      "aliases": [
+        "Best Day West Coast IPA"
+      ],
+      "brewery": "Best Day Brewing",
+      "breweryUrl": "https://bestdaybrewing.com/",
+      "style": "Non-alcoholic West Coast IPA",
+      "abv": 0.5,
+      "description": "A non-alcoholic West Coast IPA with Cascade-hop citrus and pine aroma, balanced malt, and a lingering hop finish.",
+      "tags": [
+        "non-alcoholic",
+        "ipa",
+        "west-coast",
+        "citrus",
+        "pine",
+        "hoppy"
+      ],
+      "confidence": "high",
+      "sources": [
+        "bestdaybrewing.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Bitburger Premium Pils",
+      "aliases": [
+        "Bitburger Pils",
+        "Bitburger Premium Pilsner"
+      ],
+      "brewery": "Bitburger Brauerei",
+      "breweryUrl": "https://www.bitburger.com/",
+      "style": "German-style pilsner",
+      "abv": 4.8,
+      "description": "A crisp German pilsner with a dry finish, clean malt character, and a firm noble-hop bitterness.",
+      "tags": [
+        "pilsner",
+        "german",
+        "crisp",
+        "noble-hops",
+        "bitter"
+      ],
+      "confidence": "high",
+      "sources": [
+        "bitburger.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Burlington Beer Co Fuzzy Whale Cake",
+      "brewery": "Burlington Beer Company",
+      "breweryUrl": "https://burlingtonbeercompany.com/",
+      "style": "Blonde Ale",
+      "abv": 5.5,
+      "description": "Fruited Blonde Ale with Peach & Apricot",
+      "tags": [
+        "Fruited"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.burlingtonbeercompany.com/beer-menu"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Burlington Beer Company Strawberry Whale Cake",
+      "brewery": "Burlington Beer Company",
+      "breweryUrl": "https://burlingtonbeercompany.com/",
+      "style": "Blonde Ale",
+      "abv": 5.5,
+      "description": "Fruited Blonde Ale with Strawberries",
+      "tags": [
+        "Fruited"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.burlingtonbeercompany.com/beer-menu"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Burlington Beer Company Tropical Whale Cake",
+      "brewery": "Burlington Beer Company",
+      "breweryUrl": "https://burlingtonbeercompany.com/",
+      "style": "Blonde Ale",
+      "abv": 5.5,
+      "description": "Fruited Blonde Ale with Passionfruit, Orange, & Guava",
+      "tags": [
+        "Fruited"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.burlingtonbeercompany.com/beer-menu"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Burlington Bumbleberry",
+      "aliases": [
+        "Bumbleberry Whale Cake"
+      ],
+      "brewery": "Burlington Beer Company",
+      "breweryUrl": "https://burlingtonbeercompany.com/",
+      "style": "Blonde Ale",
+      "abv": 5.5,
+      "description": "Fruited Blonde Ale with Raspberries, Blueberries, & Strawberries",
+      "tags": [
+        "Fruited"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.burlingtonbeercompany.com/beer-menu"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Burnish Extra Shine",
+      "brewery": "Burnish Beer Company",
+      "breweryUrl": "https://burnishbeerco.com/",
+      "style": "American IPA",
+      "abv": 7.2,
+      "confidence": "medium",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Carlsberg Lager",
+      "aliases": [
+        "Carlsberg Danish Pilsner",
+        "Carlsberg Beer"
+      ],
+      "brewery": "Carlsberg",
+      "breweryUrl": "https://www.carlsberg.com/",
+      "style": "European pale lager",
+      "abv": 5.0,
+      "description": "A Danish-style pale lager with a balanced malt profile, gentle bitterness, and a smooth, crisp finish.",
+      "tags": [
+        "lager",
+        "pale-lager",
+        "danish",
+        "crisp",
+        "balanced"
+      ],
+      "confidence": "high",
+      "sources": [
+        "carlsberg.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Cigar City Aruba Red",
+      "brewery": "Cigar City Brewing",
+      "breweryUrl": "https://www.cigarcitybrewing.com/",
+      "abv": 5.5,
+      "confidence": "medium",
+      "sources": [
+        "Aruba Red - Cigar City Brewing® - Untappd"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Coors Banquet",
+      "aliases": [
+        "Coors Original",
+        "Banquet Beer"
+      ],
+      "brewery": "Coors Brewing Company",
+      "breweryUrl": "https://www.coors.com/",
+      "style": "American-style golden lager",
+      "abv": 5.0,
+      "description": "A full-bodied American golden lager with a malty character, mild fruit notes, and a crisp finish.",
+      "tags": [
+        "lager",
+        "american",
+        "golden",
+        "malty",
+        "classic"
+      ],
+      "confidence": "high",
+      "sources": [
+        "coors.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "First State Cosmic Justice",
+      "brewery": "First State Brewing Company",
+      "breweryUrl": "https://www.firststatebrewing.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Flying Fish Escape",
+      "brewery": "Flying Fish Brewing Company",
+      "breweryUrl": "https://flyingfish.com/",
+      "style": "IPA - Imperial / Double",
+      "abv": 8.1,
+      "confidence": "medium",
+      "sources": [
+        "Escape - Flying Fish Brewing Co. - Untappd"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Freedom Brew American Lager",
+      "brewery": "Freedom Brew",
+      "breweryUrl": "https://freedombrewbeer.com/",
+      "style": "Lager",
+      "abv": 5.0,
+      "description": "Our golden lager is light enough to drink on a hot summer day and flavorful",
+      "confidence": "high",
+      "sources": [
+        "inferred"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Freedom Brew American White Ale",
+      "brewery": "Freedom Brew",
+      "breweryUrl": "https://freedombrewbeer.com/",
+      "style": "White Ale",
+      "abv": 5.0,
+      "description": "a smooth, light-bodied ale with hints of orange and spices",
+      "confidence": "high",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Freedom Brew Lemon Shandy",
+      "brewery": "Freedom Brew",
+      "breweryUrl": "https://freedombrewbeer.com/",
+      "style": "Shandy",
+      "description": "a crisp, clean, well balanced, refreshing Lemon Shandy.",
+      "confidence": "high",
+      "sources": [
+        "inferred"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Garage Beer Classic Lime",
+      "aliases": [
+        "Garage Beer Lime"
+      ],
+      "brewery": "Garage Beer",
+      "breweryUrl": "https://drinkgaragebeer.com/",
+      "style": "Lime-flavored light lager",
+      "abv": 4.0,
+      "description": "A light lager brewed for easy drinking with bright lime flavor and a crisp, clean finish.",
+      "tags": [
+        "lager",
+        "light",
+        "lime",
+        "crisp",
+        "easy-drinking"
+      ],
+      "confidence": "high",
+      "sources": [
+        "drinkgaragebeer.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Go Sunshine State Tropical IPA",
+      "aliases": [
+        "Sunshine State Tropical IPA"
+      ],
+      "brewery": "Go Brewing",
+      "breweryUrl": "https://gobrewing.com/",
+      "style": "Non-alcoholic tropical IPA",
+      "abv": 0.5,
+      "description": "A non-alcoholic tropical IPA with bright fruit-forward hop character and a refreshing finish.",
+      "tags": [
+        "non-alcoholic",
+        "ipa",
+        "tropical",
+        "citrus",
+        "hoppy"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "gobrewing.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation; non-alcoholic beer values may be listed as under 0.5% ABV.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Go The Story Double IPA",
+      "aliases": [
+        "The Story Double IPA"
+      ],
+      "brewery": "Go Brewing",
+      "breweryUrl": "https://gobrewing.com/",
+      "style": "Non-alcoholic double IPA",
+      "abv": 0.5,
+      "description": "A non-alcoholic double IPA built around a bold hop profile with citrus, tropical fruit, and a fuller IPA body.",
+      "tags": [
+        "non-alcoholic",
+        "double-ipa",
+        "citrus",
+        "tropical",
+        "hoppy"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "gobrewing.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation; non-alcoholic beer values may be listed as under 0.5% ABV.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Great Lakes Mexican Lager",
+      "aliases": [
+        "Great Lakes Mexican-Style Lager"
+      ],
+      "brewery": "Great Lakes Brewing Company",
+      "breweryUrl": "https://www.greatlakesbrewing.com/",
+      "style": "Mexican-style lager",
+      "abv": 5.4,
+      "description": "A Mexican-style lager with crisp malt character, subtle lime-like citrus notes, and a clean finish.",
+      "tags": [
+        "lager",
+        "mexican-style",
+        "crisp",
+        "citrus",
+        "easy-drinking"
+      ],
+      "confidence": "high",
+      "sources": [
+        "greatlakesbrewing.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Great Lakes Orange & Honey Wheat",
+      "aliases": [
+        "Orange & Honey Wheat"
+      ],
+      "brewery": "Great Lakes Brewing Company",
+      "breweryUrl": "https://www.greatlakesbrewing.com/",
+      "style": "Wheat ale",
+      "abv": 5.5,
+      "description": "A wheat ale brewed with orange peel and honey for a soft malt profile, citrus aroma, and lightly sweet finish.",
+      "tags": [
+        "wheat",
+        "orange",
+        "honey",
+        "citrus",
+        "summer"
+      ],
+      "confidence": "high",
+      "sources": [
+        "greatlakesbrewing.com"
+      ],
+      "servingTypes": [
+        "bottle",
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Great Lakes Orange and Lime Shandy",
+      "brewery": "Great Lakes Brewing Company",
+      "breweryUrl": "https://www.greatlakesbrewing.com/",
+      "style": "Shandy",
+      "abv": 4.0,
+      "description": "This bright Shandy delivers a smooth and delicious citrus blend that will leave you beaming. Exclusive to the Sunshine Party Pack.",
+      "confidence": "high",
+      "sources": [
+        "https://www.greatlakesbrewing.com/beers/orange-lime-shandy/"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Great Lakes Rally Drum",
+      "brewery": "Great Lakes Brewing Company",
+      "breweryUrl": "https://www.greatlakesbrewing.com/",
+      "style": "Shandy",
+      "abv": 4.0,
+      "description": "We love a squeeze play, so we loaded our lager base with a hit of sweetness and lemon for a refreshing Shandy that scores big when it comes to flavor.",
+      "confidence": "high",
+      "sources": [
+        "https://www.greatlakesbrewing.com/beers/rally-drum/"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Harpoon Day Drifter",
+      "brewery": "Harpoon Brewery",
+      "breweryUrl": "https://www.harpoonbrewery.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Harpoon IPA",
+      "aliases": [
+        "Harpoon India Pale Ale"
+      ],
+      "brewery": "Harpoon Brewery",
+      "breweryUrl": "https://www.harpoonbrewery.com/",
+      "style": "American IPA",
+      "abv": 5.9,
+      "description": "A balanced American IPA with citrus and pine hop character, caramel malt, and a clean bitter finish.",
+      "tags": [
+        "ipa",
+        "american",
+        "citrus",
+        "pine",
+        "balanced",
+        "hoppy"
+      ],
+      "confidence": "high",
+      "sources": [
+        "harpoonbrewery.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Heineken",
+      "aliases": [
+        "Heineken Original"
+      ],
+      "brewery": "Heineken",
+      "breweryUrl": "https://www.heineken.com/",
+      "style": "European pale lager",
+      "abv": 5.0,
+      "description": "A pale lager with mild malt, subtle fruit notes, gentle bitterness, and a crisp finish.",
+      "tags": [
+        "lager",
+        "pale-lager",
+        "european",
+        "crisp",
+        "balanced"
+      ],
+      "confidence": "high",
+      "sources": [
+        "heineken.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Hop Lark Zombie Plane",
+      "brewery": "Hoplark",
+      "breweryUrl": "https://hoplark.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Jack's Abby Framinghammer Tiramisu",
+      "aliases": [
+        "Tiramisu Barrel-Aged Framinghammer"
+      ],
+      "brewery": "Jack's Abby Craft Lagers",
+      "breweryUrl": "https://jacksabby.com/",
+      "style": "Barrel-aged Baltic porter",
+      "abv": 10.0,
+      "description": "A tiramisu-inspired variant of Framinghammer, a strong Baltic porter with rich coffee, cocoa, vanilla, and dessert-like malt character.",
+      "tags": [
+        "baltic-porter",
+        "barrel-aged",
+        "tiramisu",
+        "coffee",
+        "chocolate",
+        "dessert"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "jacksabby.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation; listed as medium because this is a specialty variant.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Kronenbourg 1664",
+      "aliases": [
+        "Kronenbourg 1664 Lager"
+      ],
+      "brewery": "Kronenbourg Brewery",
+      "breweryUrl": "https://www.kronenbourg1664.com/",
+      "style": "French-style pale lager",
+      "abv": 5.0,
+      "description": "A French pale lager with a clean malt profile, floral hop character, and a smooth, refreshing finish.",
+      "tags": [
+        "lager",
+        "french",
+        "floral",
+        "crisp",
+        "balanced"
+      ],
+      "confidence": "high",
+      "sources": [
+        "kronenbourg1664.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Kronenbourg Blanc",
+      "aliases": [
+        "1664 Blanc"
+      ],
+      "brewery": "Kronenbourg Brewery",
+      "breweryUrl": "https://www.kronenbourg1664.com/",
+      "style": "French-style wheat beer",
+      "abv": 5.0,
+      "description": "A French-style wheat beer with citrus fruit character, coriander spice, and a smooth, lightly sweet finish.",
+      "tags": [
+        "wheat",
+        "french",
+        "citrus",
+        "coriander",
+        "smooth"
+      ],
+      "confidence": "high",
+      "sources": [
+        "kronenbourg1664.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Lindemans D'Or",
+      "brewery": "Brouwerij Lindemans",
+      "breweryUrl": "https://www.lindemans.be/",
+      "abv": 8.0,
+      "sources": [
+        "https://www.beeradvocate.com/beer/profile/187/731343/"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Miller High Life",
+      "aliases": [
+        "The Champagne of Beers"
+      ],
+      "brewery": "Miller Brewing Company",
+      "breweryUrl": "https://www.millerhighlife.com/",
+      "style": "American-style lager",
+      "abv": 4.6,
+      "description": "A classic American lager with a light body, gentle grain sweetness, and lively carbonation.",
+      "tags": [
+        "lager",
+        "american",
+        "light-bodied",
+        "crisp",
+        "classic"
+      ],
+      "confidence": "high",
+      "sources": [
+        "millerhighlife.com"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Ministry Bake Sale",
+      "brewery": "Ministry of Brewing",
+      "breweryUrl": "https://ministryofbrewing.com/",
+      "style": "Sour",
+      "abv": 5.8,
+      "description": "Triple Berry Crisp Sour",
+      "confidence": "high",
+      "sources": [
+        "ministryofbrewing.com/taproom"
+      ],
+      "notes": "Official Ministry taproom page confirms a rotating draft list; individual beer specifications were not exposed in page text.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Ministry Peach Pils",
+      "brewery": "Ministry of Brewing",
+      "breweryUrl": "https://ministryofbrewing.com/",
+      "style": "Czech Pils",
+      "abv": 5.3,
+      "description": "Czech Pils w/ Peach",
+      "confidence": "high",
+      "sources": [
+        "ministryofbrewing.com/taproom"
+      ],
+      "notes": "Official Ministry taproom page confirms a rotating draft list; individual beer specifications were not exposed in page text.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Ministry Planetary",
+      "brewery": "Ministry of Brewing",
+      "breweryUrl": "https://ministryofbrewing.com/",
+      "style": "Hazy New England IPA",
+      "abv": 7.5,
+      "description": "Hazy New England IPA",
+      "confidence": "high",
+      "sources": [
+        "ministryofbrewing.com/taproom"
+      ],
+      "notes": "Official Ministry taproom page confirms a rotating draft list; individual beer specifications were not exposed in page text.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Mobtown Disco Nap",
+      "aliases": [
+        "Disco Nap"
+      ],
+      "brewery": "Mobtown Brewing Company",
+      "breweryUrl": "https://www.mobtownbrewing.com/",
+      "style": "DIPA",
+      "abv": 8.0,
+      "confidence": "high",
+      "sources": [
+        "https://www.mobtownbrewing.com/draftlist"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Monocacy Running on MD",
+      "aliases": [
+        "Runnin' On MD"
+      ],
+      "brewery": "Monocacy Brewing Co.",
+      "breweryUrl": "https://www.monocacybrewing.com/",
+      "style": "Blonde Ale / Honey Blonde",
+      "abv": 5.6,
+      "description": "It features an all-Frederick County honey blend, bringing out an excellent honey flavor complemented by smooth, toasty biscuit notes",
+      "confidence": "high",
+      "sources": [
+        "https://monocacybrewing.com/whats-on-tap/"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Monument City Gusto",
+      "aliases": [
+        "Gusto Italian Pilsner"
+      ],
+      "brewery": "Monument City Brewing Company",
+      "breweryUrl": "https://monumentcitybrewing.com/",
+      "style": "Italian-style pilsner",
+      "abv": 5.1,
+      "description": "A crisp Italian-style pilsner with floral hop aroma, clean malt, and a dry, refreshing finish.",
+      "tags": [
+        "pilsner",
+        "italian-style",
+        "crisp",
+        "floral",
+        "dry"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "monumentcitybrewing.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Narragansett",
+      "aliases": [
+        "Narragansett Lager",
+        "'Gansett"
+      ],
+      "brewery": "Narragansett Beer",
+      "breweryUrl": "https://www.narragansettbeer.com/",
+      "style": "American-style lager",
+      "abv": 5.0,
+      "description": "A classic American lager with a clean, crisp profile, light malt flavor, and mild hop bitterness.",
+      "tags": [
+        "lager",
+        "american",
+        "crisp",
+        "classic",
+        "easy-drinking"
+      ],
+      "confidence": "high",
+      "sources": [
+        "narragansettbeer.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "New Trail 8th Orbit",
+      "brewery": "New Trail Brewing Company",
+      "breweryUrl": "https://www.newtrailbrewing.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "New Trail Crisp Lime",
+      "brewery": "New Trail Brewing Company",
+      "breweryUrl": "https://www.newtrailbrewing.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "New Trail Tangier Shades",
+      "brewery": "New Trail Brewing Company",
+      "breweryUrl": "https://www.newtrailbrewing.com/",
+      "style": "IPA - New England / Hazy",
+      "abv": 6.0,
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/new-trail-brewing-co-tangier-shades/6708577"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Oskar Blues Dale's American IPA",
+      "aliases": [
+        "Dale's Pale Ale",
+        "Dale's American Pale Ale"
+      ],
+      "brewery": "Oskar Blues Brewery",
+      "breweryUrl": "https://www.oskarblues.com/",
+      "style": "American pale ale",
+      "abv": 6.5,
+      "description": "A hop-forward American pale ale with citrus and pine notes, toasted malt, and a firm finish.",
+      "tags": [
+        "pale-ale",
+        "american",
+        "citrus",
+        "pine",
+        "hoppy"
+      ],
+      "confidence": "high",
+      "sources": [
+        "oskarblues.com"
+      ],
+      "notes": "Catalog name normalized to the brewery's Dale's Pale Ale branding.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Oxbow Infinite Darkness",
+      "aliases": [
+        "Infinite Darkness"
+      ],
+      "brewery": "Oxbow Brewing Company",
+      "breweryUrl": "https://www.oxbowbeer.com/",
+      "style": "imperial stout",
+      "abv": 10.0,
+      "description": "Infinite Darkness is a Belgian-style imperial stout brewed with European malts and fermented with a blend of Trappist and farmhouse yeast.",
+      "confidence": "high",
+      "sources": [
+        "https://oxbowbeer.com/beer/infinite-darkness/"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Peabody Heights Attack From the 80's",
+      "brewery": "Peabody Heights Brewery",
+      "breweryUrl": "https://www.peabodyheights.com/",
+      "style": "Irish Dry Stout",
+      "abv": 7.0,
+      "description": "The 80’s are back! Utilizing Maris Otter, Pale Chocolate, and Crystal Oat malt along with a hefty base of roasted barley, the subtle chocolate and toffee notes come to the forefront of this classic style. Finishing off with a delicate roast that fades off the tongue, our aim was to stay true to style for one of the eras most popular beers.",
+      "confidence": "high",
+      "sources": [
+        "https://peabodyheightsbrewery.com/beer/attack-from-the-80s/"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "RAR From the Patch",
+      "brewery": "RAR Brewing",
+      "breweryUrl": "https://rarbrewing.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Samuel Smith Pure Brewed Organic Lager",
+      "aliases": [
+        "Samuel Smith Organic Lager"
+      ],
+      "brewery": "Samuel Smith's Brewery",
+      "breweryUrl": "https://www.samuelsmithsbrewery.co.uk/",
+      "style": "Organic lager",
+      "abv": 5.0,
+      "description": "An organic lager with clean malt character, gentle hop bitterness, and a crisp, dry finish.",
+      "tags": [
+        "lager",
+        "organic",
+        "english",
+        "crisp",
+        "balanced"
+      ],
+      "confidence": "high",
+      "sources": [
+        "samuelsmithsbrewery.co.uk"
+      ],
+      "notes": "Corrected from prior off-by-one placement.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Schlafly Shorty's Small IPA",
+      "aliases": [
+        "Shorty's Small IPA"
+      ],
+      "brewery": "Schlafly Beer",
+      "breweryUrl": "https://www.schlafly.com/",
+      "style": "Session IPA",
+      "abv": 4.5,
+      "description": "A lower-ABV IPA with hop-forward citrus character, light malt support, and a clean finish.",
+      "tags": [
+        "ipa",
+        "session-ipa",
+        "citrus",
+        "hoppy",
+        "light-bodied"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "schlafly.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Sierra Nevada Atomic Torpedo (2026)",
+      "aliases": [
+        "Atomic Torpedo",
+        "Atomic Torpedo Juicy West Coast Double IPA"
+      ],
+      "brewery": "Sierra Nevada Brewing Co.",
+      "breweryUrl": "https://sierranevada.com/",
+      "style": "Juicy West Coast double IPA",
+      "abv": 9.2,
+      "description": "A high-gravity West Coast double IPA with bold hop intensity, tropical fruit, citrus, and resinous bitterness.",
+      "tags": [
+        "double-ipa",
+        "west-coast",
+        "juicy",
+        "citrus",
+        "tropical",
+        "hoppy"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "sierranevada.com",
+        "untappd.com"
+      ],
+      "notes": "Restored after prior off-by-one overwrite; year retained from catalog name.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Sixpoint Summer Sesh",
+      "brewery": "Sixpoint Brewery",
+      "breweryUrl": "https://sixpoint.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Sloop Berry Cruiser",
+      "brewery": "Sloop Brewing Co.",
+      "breweryUrl": "https://sloopbrewing.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Sloop Juice Bomb",
+      "aliases": [
+        "Juice Bomb IPA"
+      ],
+      "brewery": "Sloop Brewing Co.",
+      "breweryUrl": "https://sloopbrewing.com/",
+      "style": "New England-style IPA",
+      "abv": 6.5,
+      "description": "A hazy IPA with juicy hop aroma, tropical fruit, citrus, and a soft, smooth body.",
+      "tags": [
+        "ipa",
+        "hazy",
+        "new-england",
+        "juicy",
+        "tropical",
+        "citrus"
+      ],
+      "confidence": "high",
+      "sources": [
+        "sloopbrewing.com",
+        "untappd.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Sloop Premium Lager",
+      "aliases": [
+        "Premium Lager"
+      ],
+      "brewery": "Sloop Brewing Co.",
+      "breweryUrl": "https://sloopbrewing.com/",
+      "style": "American lager",
+      "abv": 4.6,
+      "description": "A clean, crisp lager with light malt flavor, subtle hops, and an easy-drinking finish.",
+      "tags": [
+        "lager",
+        "american",
+        "crisp",
+        "clean",
+        "easy-drinking"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "sloopbrewing.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "South County Automatic Fantastic - Blackberry",
+      "aliases": [
+        "Automatic Fantastic"
+      ],
+      "brewery": "South County Brewing Company",
+      "breweryUrl": "https://www.southcountybrewing.com/",
+      "style": "Sour – Fruited",
+      "abv": 5.5,
+      "description": "kettle sour beer brewed with seasonal fruit and lactose",
+      "confidence": "high",
+      "sources": [
+        "https://southcountybrewing.com/beer//"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Southern Tier Cheat Day",
+      "aliases": [
+        "Cheat Day"
+      ],
+      "brewery": "Southern Tier Brewing Company",
+      "breweryUrl": "https://www.stbcbeer.com/",
+      "style": "Dessert stout",
+      "abv": 10.0,
+      "description": "A dessert-inspired stout with rich sweet malt, chocolate, and pastry-like character.",
+      "tags": [
+        "stout",
+        "dessert",
+        "chocolate",
+        "sweet",
+        "pastry"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "southerntierbrewing.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Three Floyds Wig Splitter",
+      "aliases": [
+        "3 Floyds Wigsplitter",
+        "Wig Splitter Coffee Stout"
+      ],
+      "brewery": "3 Floyds Brewing",
+      "breweryUrl": "https://www.3floyds.com/",
+      "style": "Coffee stout",
+      "abv": 7.7,
+      "description": "A coffee stout with roasted malt, dark coffee, and bittersweet chocolate character.",
+      "tags": [
+        "stout",
+        "coffee",
+        "roasted",
+        "chocolate",
+        "dark"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "3floyds.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Toppling Goliath Dorothy",
+      "aliases": [
+        "Dorothy's New World Lager",
+        "Dorothy"
+      ],
+      "brewery": "Toppling Goliath Brewing Co.",
+      "breweryUrl": "https://www.tgbrews.com/",
+      "style": "California common / steam-style lager",
+      "abv": 5.5,
+      "description": "A New World lager inspired by the California common style, with toasty malt, clean fermentation, and a balanced hop finish.",
+      "tags": [
+        "lager",
+        "california-common",
+        "steam-style",
+        "malty",
+        "balanced"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "tgbrews.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Toppling Goliath Double Dry Hopped Pseudo Sue",
+      "aliases": [
+        "DDH Pseudo Sue",
+        "Double Dry Hop Pseudo Sue"
+      ],
+      "brewery": "Toppling Goliath Brewing Co.",
+      "breweryUrl": "https://www.tgbrews.com/",
+      "style": "American pale ale",
+      "abv": 5.8,
+      "description": "A double dry-hopped version of Pseudo Sue with amplified hop aroma, citrus, tropical fruit, and a soft pale ale body.",
+      "tags": [
+        "pale-ale",
+        "ddh",
+        "citra",
+        "citrus",
+        "tropical",
+        "hoppy"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "tgbrews.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Toppling Goliath Galaxy Dry Hop Pseudo Sue",
+      "aliases": [
+        "Galaxy Dry Hopped Pseudo Sue"
+      ],
+      "brewery": "Toppling Goliath Brewing Co.",
+      "breweryUrl": "https://www.tgbrews.com/",
+      "style": "American pale ale",
+      "abv": 5.8,
+      "description": "A Galaxy dry-hopped Pseudo Sue variant with tropical fruit, citrus, and bright hop aromatics layered over a pale ale base.",
+      "tags": [
+        "pale-ale",
+        "galaxy",
+        "dry-hopped",
+        "tropical",
+        "citrus",
+        "hoppy"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "tgbrews.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Toppling Goliath Mosaic Dry Hop Pseudo Sue",
+      "aliases": [
+        "Mosaic Dry Hopped Pseudo Sue"
+      ],
+      "brewery": "Toppling Goliath Brewing Co.",
+      "breweryUrl": "https://www.tgbrews.com/",
+      "style": "American pale ale",
+      "abv": 5.8,
+      "description": "A Mosaic dry-hopped Pseudo Sue variant with citrus, berry, tropical fruit, and resinous hop character.",
+      "tags": [
+        "pale-ale",
+        "mosaic",
+        "dry-hopped",
+        "citrus",
+        "berry",
+        "hoppy"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "tgbrews.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Toppling Goliath Munich Weiss",
+      "aliases": [
+        "Munich Weiss"
+      ],
+      "brewery": "Toppling Goliath Brewing Co.",
+      "breweryUrl": "https://www.tgbrews.com/",
+      "style": "Hefeweizen",
+      "abv": 5.5,
+      "description": "A German-style wheat beer with soft wheat malt, banana-clove yeast character, and a smooth finish.",
+      "tags": [
+        "hefeweizen",
+        "wheat",
+        "german-style",
+        "banana",
+        "clove"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "tgbrews.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Toppling Goliath Nectaron Dry Hop Pseudo Sue",
+      "aliases": [
+        "Nectaron Dry Hopped Pseudo Sue"
+      ],
+      "brewery": "Toppling Goliath Brewing Co.",
+      "breweryUrl": "https://www.tgbrews.com/",
+      "style": "American pale ale",
+      "abv": 5.8,
+      "description": "A Nectaron dry-hopped Pseudo Sue variant with tropical stone fruit, citrus, and bright hop aromatics.",
+      "tags": [
+        "pale-ale",
+        "nectaron",
+        "dry-hopped",
+        "tropical",
+        "stone-fruit",
+        "hoppy"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "tgbrews.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Trappistes Rochefort",
+      "brewery": "Brasserie de Rochefort",
+      "breweryUrl": "https://www.trappistes-rochefort.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Traquair Jacobite Ale",
+      "aliases": [
+        "Jacobite Ale"
+      ],
+      "brewery": "Traquair House Brewery",
+      "breweryUrl": "https://www.traquair.co.uk/",
+      "style": "Spiced Scotch ale / strong ale",
+      "abv": 8.0,
+      "description": "A dark strong ale brewed with coriander, featuring rich malt, dark fruit, spice, and warming strength.",
+      "tags": [
+        "scotch-ale",
+        "strong-ale",
+        "coriander",
+        "dark-fruit",
+        "malty"
+      ],
+      "confidence": "high",
+      "sources": [
+        "traquair.co.uk",
+        "untappd.com"
+      ],
+      "notes": "Corrected to original catalog row.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Troegs Daylight Chaser",
+      "aliases": [
+        "Daylight Chaser"
+      ],
+      "brewery": "Tröegs Independent Brewing",
+      "breweryUrl": "https://www.troegs.com/",
+      "style": "Dark IPA",
+      "abv": 6.3,
+      "description": "A dark IPA from Tröegs with roasty malt character and IPA hop bitterness.",
+      "confidence": "high",
+      "sources": [
+        "https://troegs.com/beer/daylight-chaser/"
+      ],
+      "notes": "Official Tröegs beer page confirms Daylight Chaser as a 6.3% Dark IPA.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Troegs Pennsylvania Lager",
+      "aliases": [
+        "Tröegs Pennsylvania Lager"
+      ],
+      "brewery": "Tröegs Independent Brewing",
+      "breweryUrl": "https://www.troegs.com/",
+      "style": "Pennsylvania-style lager",
+      "abv": 4.5,
+      "description": "A crisp, balanced lager brewed with Pennsylvania-grown ingredients and a clean, refreshing finish.",
+      "tags": [
+        "lager",
+        "pennsylvania",
+        "crisp",
+        "balanced",
+        "easy-drinking"
+      ],
+      "confidence": "high",
+      "sources": [
+        "troegs.com"
+      ],
+      "notes": "Corrected to original catalog row.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Union Greetings From Union",
+      "brewery": "Union Craft Brewing",
+      "breweryUrl": "https://unioncraftbrewing.com/",
+      "confidence": "low",
+      "notes": "Restored after duplicate correction; not populated until exact beer identity is verified.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Union Pale Mild (Nitro)",
+      "aliases": [
+        "Pale Mild Nitro"
+      ],
+      "brewery": "Union Craft Brewing",
+      "breweryUrl": "https://unioncraftbrewing.com/",
+      "style": "English-style pale mild",
+      "abv": 3.8,
+      "description": "A lower-ABV English-style mild served on nitro, with soft malt character, gentle bitterness, and a smooth pour.",
+      "tags": [
+        "mild",
+        "english-style",
+        "nitro",
+        "low-abv",
+        "malty"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "unioncraftbrewing.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Utica Club",
+      "aliases": [
+        "Utica Club Pilsener Lager"
+      ],
+      "brewery": "Matt Brewing Company",
+      "breweryUrl": "https://www.saranac.com/",
+      "style": "American pale lager",
+      "abv": 5.0,
+      "description": "A classic American pale lager with a clean malt profile, light hop bitterness, and crisp finish.",
+      "tags": [
+        "lager",
+        "american",
+        "pale-lager",
+        "crisp",
+        "classic"
+      ],
+      "confidence": "high",
+      "sources": [
+        "saranac.com",
+        "untappd.com"
+      ],
+      "notes": "Corrected to original catalog row.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Victory Prima Light",
+      "aliases": [
+        "Prima Light"
+      ],
+      "brewery": "Victory Brewing Company",
+      "breweryUrl": "https://victorybeer.com/",
+      "style": "Light pilsner",
+      "abv": 4.0,
+      "description": "A lighter pilsner inspired by Prima Pils, with crisp malt, floral hop character, and a clean finish.",
+      "tags": [
+        "pilsner",
+        "light",
+        "crisp",
+        "floral",
+        "refreshing"
+      ],
+      "confidence": "medium",
+      "sources": [
+        "victorybeer.com",
+        "untappd.com"
+      ],
+      "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Westmalle Dubbel",
+      "aliases": [
+        "Trappist Westmalle Dubbel"
+      ],
+      "brewery": "Brouwerij der Trappisten van Westmalle",
+      "breweryUrl": "https://www.trappistwestmalle.be/",
+      "style": "Belgian dubbel",
+      "abv": 7.0,
+      "description": "A dark Trappist dubbel with dried-fruit character, caramelized malt, warming spice, and a dry finish.",
+      "tags": [
+        "dubbel",
+        "belgian",
+        "trappist",
+        "dark",
+        "dried-fruit",
+        "malty"
+      ],
+      "confidence": "high",
+      "sources": [
+        "trappistwestmalle.be"
+      ],
+      "notes": "Corrected to original catalog row.",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Yuengling",
+      "aliases": [
+        "Yuengling Traditional Lager"
+      ],
+      "brewery": "D. G. Yuengling & Son",
+      "breweryUrl": "https://www.yuengling.com/",
+      "style": "Amber lager",
+      "abv": 4.5,
+      "description": "A classic amber lager with roasted caramel malt, subtle hops, and a smooth, balanced finish.",
+      "tags": [
+        "lager",
+        "amber",
+        "caramel",
+        "american",
+        "smooth"
+      ],
+      "confidence": "high",
+      "sources": [
+        "yuengling.com"
+      ],
+      "notes": "Corrected to original catalog row.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    }
+  ]
+}
