@@ -436,6 +436,16 @@
     },
     {
       "status": "needs_review",
+      "name": "Dewey Pale Ale",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
       "name": "First State Cosmic Justice",
       "brewery": "First State Brewing Company",
       "breweryUrl": "https://www.firststatebrewing.com/",
@@ -601,6 +611,16 @@
         "untappd.com"
       ],
       "notes": "Second-pass validation; non-alcoholic beer values may be listed as under 0.5% ABV.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Great Lakes Dortmunder Gold",
       "servingTypes": [
         "bottle"
       ],
@@ -781,6 +801,16 @@
       "name": "Hop Lark Zombie Plane",
       "brewery": "Hoplark",
       "breweryUrl": "https://hoplark.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Jack's Abby Framinghammer Salted Caramel",
       "servingTypes": [
         "bottle"
       ],
@@ -1089,6 +1119,16 @@
     },
     {
       "status": "needs_review",
+      "name": "National Bohemian",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
       "name": "New Trail 8th Orbit",
       "brewery": "New Trail Brewing Company",
       "breweryUrl": "https://www.newtrailbrewing.com/",
@@ -1153,6 +1193,21 @@
         "oskarblues.com"
       ],
       "notes": "Catalog name normalized to the brewery's Dale's Pale Ale branding.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Oskare Blues Dale's American IPA",
+      "style": "IPA",
+      "confidence": "low",
+      "sources": [
+        "inferred"
+      ],
       "servingTypes": [
         "bottle"
       ],
