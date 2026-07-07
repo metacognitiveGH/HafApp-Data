@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-28",
+  "updatedAt": "2026-07-07",
   "source": "Mahaffey's Beer Club curated beer information",
   "beers": [
     {
@@ -113,6 +113,16 @@
       "sources": [
         "allagash.com"
       ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Avery Yuzilla",
       "servingTypes": [
         "bottle"
       ],
@@ -246,6 +256,21 @@
       ],
       "servingTypes": [
         "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Brewer's Alley Kolsch",
+      "style": "Kolsch",
+      "confidence": "low",
+      "sources": [
+        "inferred"
+      ],
+      "servingTypes": [
+        "draft"
       ],
       "detectedIn": [
         "next-up:3300"
@@ -388,6 +413,21 @@
       ]
     },
     {
+      "status": "needs_review",
+      "name": "Checkerspot Star Spangled Pilsner",
+      "style": "Pilsner",
+      "confidence": "low",
+      "sources": [
+        "inferred"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
       "status": "approved",
       "name": "Cigar City Aruba Red",
       "brewery": "Cigar City Brewing",
@@ -426,6 +466,50 @@
       "confidence": "high",
       "sources": [
         "coors.com"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Dewey Pale Ale",
+      "brewery": "Dewey Beer Co",
+      "breweryUrl": "https://www.deweybeerco.com/deweybeach",
+      "style": "American Pale Ale",
+      "abv": 5.0,
+      "description": "A golden classic for any beer drinker. Brewed with Hallertau Blanc, Mosaic, Cascade and Centennial hops to create a hop forward pale ale with rich notes of natural pine and stone fruit",
+      "confidence": "high",
+      "sources": [
+        "https://www.deweybeerco.com/deweybeach"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Firestone Walker Diesel Thunder",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Firestone Walker IPA",
+      "style": "IPA",
+      "confidence": "low",
+      "sources": [
+        "inferred"
       ],
       "servingTypes": [
         "bottle"
@@ -609,6 +693,41 @@
       ]
     },
     {
+      "status": "needs_review",
+      "name": "Great Lake Rocket Pop",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Great Lakes Dortmunder",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Great Lakes Dortmunder Gold",
+      "brewery": "Great Lakes Brewing Company",
+      "breweryUrl": "https://www.greatlakesbrewing.com/",
+      "style": "Lager",
+      "abv": 5.8,
+      "description": "Award-Winning German-Style Lager",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
       "status": "approved",
       "name": "Great Lakes Mexican Lager",
       "aliases": [
@@ -707,6 +826,16 @@
     },
     {
       "status": "needs_review",
+      "name": "Great Lakes Vibacious",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
       "name": "Harpoon Day Drifter",
       "brewery": "Harpoon Brewery",
       "breweryUrl": "https://www.harpoonbrewery.com/",
@@ -781,6 +910,27 @@
       "name": "Hop Lark Zombie Plane",
       "brewery": "Hoplark",
       "breweryUrl": "https://hoplark.com/",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Jack's Abby Framinghammer Salted Caramel",
+      "aliases": [
+        "Framinghammer"
+      ],
+      "brewery": "Jack's Abby Brewing",
+      "breweryUrl": "https://jacksabby.com/#",
+      "style": "Baltic Porter",
+      "abv": 9.0,
+      "description": "Decadent Salted Caramel Imperial Porter. Rich and Smooth!",
+      "sources": [
+        "https://jacksabby.com/beers/framinghammer/"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -871,6 +1021,16 @@
       "sources": [
         "kronenbourg1664.com"
       ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "La Chouffe",
       "servingTypes": [
         "bottle"
       ],
@@ -1088,6 +1248,24 @@
       ]
     },
     {
+      "status": "approved",
+      "name": "National Bohemian",
+      "brewery": "Pabst Brewing Company",
+      "breweryUrl": "https://nationalbohemian.com/pages/beer",
+      "abv": 4.5,
+      "description": "Baltimore's Finest",
+      "confidence": "high",
+      "sources": [
+        "https://nationalbohemian.com/pages/beer"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
       "status": "needs_review",
       "name": "New Trail 8th Orbit",
       "brewery": "New Trail Brewing Company",
@@ -1130,6 +1308,16 @@
       ]
     },
     {
+      "status": "needs_review",
+      "name": "New Trail Troutbitten",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
       "status": "approved",
       "name": "Oskar Blues Dale's American IPA",
       "aliases": [
@@ -1153,6 +1341,25 @@
         "oskarblues.com"
       ],
       "notes": "Catalog name normalized to the brewery's Dale's Pale Ale branding.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Oskare Blues Dale's American IPA",
+      "brewery": "Oskar Blues Brewery",
+      "breweryUrl": "https://www.oskarblues.com/",
+      "style": "IPA",
+      "abv": 6.9,
+      "description": "This timeless American IPA is in the West Coast style – chock full of citrusy, herbal, and fresh pine notes that’ll renew your obsession with hops.",
+      "confidence": "high",
+      "sources": [
+        "https://oskarblues.com/beer/dales-american-ipa/"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -1194,6 +1401,26 @@
       "sources": [
         "https://peabodyheightsbrewery.com/beer/attack-from-the-80s/"
       ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Peabody Heights La Fonte",
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Piraat 7",
       "servingTypes": [
         "bottle"
       ],
@@ -1386,6 +1613,46 @@
         "untappd.com"
       ],
       "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Smuttynose Blackberry Ale",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Soul Tone IPA",
+      "style": "IPA",
+      "confidence": "low",
+      "sources": [
+        "inferred"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "needs_review",
+      "name": "Soul Tone Pils",
+      "style": "Pilsner",
+      "confidence": "low",
+      "sources": [
+        "inferred"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -1843,6 +2110,16 @@
       ]
     },
     {
+      "status": "needs_review",
+      "name": "Victory Berry Monkey",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
       "status": "approved",
       "name": "Victory Prima Light",
       "aliases": [
@@ -1927,98 +2204,6 @@
         "yuengling.com"
       ],
       "notes": "Corrected to original catalog row.",
-      "servingTypes": [
-        "bottle"
-      ],
-      "detectedIn": [
-        "next-up:3300"
-      ]
-    },
-    {
-      "status": "approved",
-      "name": "Dewey Pale Ale",
-      "brewery": "Dewey Beer Co",
-      "breweryUrl": "https://www.deweybeerco.com/deweybeach",
-      "style": "American Pale Ale",
-      "abv": 5.0,
-      "description": "A golden classic for any beer drinker. Brewed with Hallertau Blanc, Mosaic, Cascade and Centennial hops to create a hop forward pale ale with rich notes of natural pine and stone fruit",
-      "confidence": "high",
-      "sources": [
-        "https://www.deweybeerco.com/deweybeach"
-      ],
-      "servingTypes": [
-        "draft"
-      ],
-      "detectedIn": [
-        "next-up:3300"
-      ]
-    },
-    {
-      "status": "approved",
-      "name": "Great Lakes Dortmunder Gold",
-      "brewery": "Great Lakes Brewing Company",
-      "breweryUrl": "https://www.greatlakesbrewing.com/",
-      "style": "Lager",
-      "abv": 5.8,
-      "description": "Award-Winning German-Style Lager",
-      "servingTypes": [
-        "bottle"
-      ],
-      "detectedIn": [
-        "next-up:3300"
-      ]
-    },
-    {
-      "status": "approved",
-      "name": "Jack's Abby Framinghammer Salted Caramel",
-      "aliases": [
-        "Framinghammer"
-      ],
-      "brewery": "Jack's Abby Brewing",
-      "breweryUrl": "https://jacksabby.com/#",
-      "style": "Baltic Porter",
-      "abv": 9.0,
-      "description": "Decadent Salted Caramel Imperial Porter. Rich and Smooth!",
-      "sources": [
-        "https://jacksabby.com/beers/framinghammer/"
-      ],
-      "servingTypes": [
-        "bottle"
-      ],
-      "detectedIn": [
-        "next-up:3300"
-      ]
-    },
-    {
-      "status": "approved",
-      "name": "National Bohemian",
-      "brewery": "Pabst Brewing Company",
-      "breweryUrl": "https://nationalbohemian.com/pages/beer",
-      "abv": 4.5,
-      "description": "Baltimore's Finest",
-      "confidence": "high",
-      "sources": [
-        "https://nationalbohemian.com/pages/beer"
-      ],
-      "servingTypes": [
-        "draft"
-      ],
-      "detectedIn": [
-        "next-up:3300"
-      ]
-    },
-    {
-      "status": "approved",
-      "name": "Oskare Blues Dale's American IPA",
-      "brewery": "Oskar Blues Brewery",
-      "breweryUrl": "https://www.oskarblues.com/",
-      "style": "IPA",
-      "abv": 6.9,
-      "description": "This timeless American IPA is in the West Coast style – chock full of citrusy, herbal, and fresh pine notes that’ll renew your obsession with hops.",
-      "confidence": "high",
-      "sources": [
-        "https://oskarblues.com/beer/dales-american-ipa/"
-      ],
       "servingTypes": [
         "bottle"
       ],
