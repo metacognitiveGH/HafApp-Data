@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-07",
+  "updatedAt": "2026-07-08",
   "source": "Mahaffey's Beer Club curated beer information",
   "beers": [
     {
@@ -721,6 +721,16 @@
     {
       "status": "needs_review",
       "name": "Great Lake Rocket Pop",
+      "aliases": [
+        "Great Lakes Rocket Pop"
+      ],
+      "style": "Hard Seltzer",
+      "abv": 5.0,
+      "description": "Hard Seltzer Inspired by Everyones Favorite Frozen Summer Treat",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
