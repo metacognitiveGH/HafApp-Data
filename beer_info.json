@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-07-10",
   "source": "Mahaffey's Beer Club curated beer information",
   "beers": [
     {
@@ -123,18 +123,18 @@
     {
       "status": "needs_review",
       "name": "Avery Yuzilla",
+      "style": "Fruited Ale",
+      "abv": 4.9,
+      "description": "Golden Ale Brewed with Fresh Citrusy Yuzu",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Fruited Ale",
-      "description": "Golden Ale Brewed with Fresh Citrusy Yuzu",
-      "abv": 4.9,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -503,24 +503,26 @@
     {
       "status": "needs_review",
       "name": "Firestone Walker Diesel Thunder",
+      "style": "Double IPA",
+      "abv": 8.0,
+      "description": "Double West Coast IPA Full of Resinous/Piney Hops",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Double IPA",
-      "description": "Double West Coast IPA Full of Resinous/Piney Hops",
-      "abv": 8.0,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
       "status": "needs_review",
       "name": "Firestone Walker IPA",
       "style": "IPA",
+      "abv": 6.5,
+      "description": "One of the Truest Forms of a West Coast IPA on the Market",
       "confidence": "local",
       "sources": [
         "inferred",
@@ -531,27 +533,25 @@
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "description": "One of the Truest Forms of a West Coast IPA on the Market",
-      "abv": 6.5
+      ]
     },
     {
       "status": "needs_review",
       "name": "First State Cosmic Justice",
       "brewery": "First State Brewing Company",
       "breweryUrl": "https://www.firststatebrewing.com/",
+      "style": "Mexican Lager",
+      "abv": 5.5,
+      "description": "Light Mexican Lager Collab with New Ridge Brewing and Malteurop Malting Company",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Mexican Lager",
-      "description": "Light Mexican Lager Collab with New Ridge Brewing and Malteurop Malting Company",
-      "abv": 5.5,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -613,6 +613,7 @@
       "brewery": "Freedom Brew",
       "breweryUrl": "https://freedombrewbeer.com/",
       "style": "Shandy",
+      "abv": 4.7,
       "description": "a crisp, clean, well balanced, refreshing Lemon Shandy.",
       "confidence": "local",
       "sources": [
@@ -624,8 +625,7 @@
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "abv": 4.7
+      ]
     },
     {
       "status": "approved",
@@ -863,18 +863,18 @@
     {
       "status": "needs_review",
       "name": "Great Lakes Vibacious",
+      "style": "DIPA",
+      "abv": 9.0,
+      "description": "Remarkably smooth Double IPA packed with feel-good hop character",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "draft"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "DIPA",
-      "description": "Remarkably smooth Double IPA packed with feel-good hop character",
-      "abv": 9.0,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -1074,18 +1074,18 @@
     {
       "status": "needs_review",
       "name": "La Chouffe",
+      "style": "Belgian Blonde",
+      "abv": 8.0,
+      "description": "Traditional Belgian Blonde with Lightly Fruity and Citrusy Notes",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Belgian Blonde",
-      "description": "Traditional Belgian Blonde with Lightly Fruity and Citrusy Notes",
-      "abv": 8.0,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -1093,7 +1093,10 @@
       "name": "Lindemans D'Or",
       "brewery": "Brouwerij Lindemans",
       "breweryUrl": "https://www.lindemans.be/",
+      "style": "Fruited Sour",
       "abv": 8.0,
+      "description": "Oak Aged Sour Blended with a Belgian Strong Ale. Tropical Notes of Mango, Lime & Melons",
+      "confidence": "local",
       "sources": [
         "https://www.beeradvocate.com/beer/profile/187/731343/",
         "Mahaffey's public beer sheet"
@@ -1103,10 +1106,7 @@
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Fruited Sour",
-      "description": "Oak Aged Sour Blended with a Belgian Strong Ale. Tropical Notes of Mango, Lime & Melons",
-      "confidence": "local"
+      ]
     },
     {
       "status": "approved",
@@ -1324,18 +1324,18 @@
       "name": "New Trail 8th Orbit",
       "brewery": "New Trail Brewing Company",
       "breweryUrl": "https://www.newtrailbrewing.com/",
+      "style": "Triple IPA",
+      "abv": 10.8,
+      "description": "8th Anniversary Triple Hazy IPA with Citra, Vera, Wai-iti, Motueka and Talus Hops",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Triple IPA",
-      "description": "8th Anniversary Triple Hazy IPA with Citra, Vera, Wai-iti, Motueka and Talus Hops",
-      "abv": 10.8,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -1371,18 +1371,18 @@
     {
       "status": "needs_review",
       "name": "New Trail Troutbitten",
+      "style": "Hazy IPA",
+      "abv": 6.0,
+      "description": "Overflowing with stone fruit, drifting sticky pine, and rising tropical",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "draft"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Hazy IPA",
-      "description": "Overflowing with stone fruit, drifting sticky pine, and rising tropical",
-      "abv": 6.0,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -1489,18 +1489,18 @@
     {
       "status": "needs_review",
       "name": "Piraat 7",
+      "style": "Belgian Ale",
+      "abv": 7.0,
+      "description": "Golden Belgian Ale. Balanced Sweet Maltiness",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Belgian Ale",
-      "description": "Golden Belgian Ale. Balanced Sweet Maltiness",
-      "abv": 7.0,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -1626,18 +1626,18 @@
       "name": "Sloop Berry Cruiser",
       "brewery": "Sloop Brewing Co.",
       "breweryUrl": "https://sloopbrewing.com/",
+      "style": "Golden Ale",
+      "abv": 4.2,
+      "description": "Easy-Drinking Golden Ale with Fresh Berries!",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Golden Ale",
-      "description": "Easy-Drinking Golden Ale with Fresh Berries!",
-      "abv": 4.2,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
@@ -1705,24 +1705,26 @@
     {
       "status": "needs_review",
       "name": "Smuttynose Blackberry Ale",
+      "style": "Fruit Ale",
+      "abv": 5.2,
+      "description": "Easy-Drinking Ale Infused with Fresh Blackberries. Perfect Summer Refresher!",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Fruit Ale",
-      "description": "Easy-Drinking Ale Infused with Fresh Blackberries. Perfect Summer Refresher!",
-      "abv": 5.2,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
       "status": "needs_review",
       "name": "Soul Tone IPA",
       "style": "IPA",
+      "abv": 2.5,
+      "description": "West-Coast Style IPA that is Super Sessionable",
       "confidence": "local",
       "sources": [
         "inferred",
@@ -1733,14 +1735,14 @@
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "description": "West-Coast Style IPA that is Super Sessionable",
-      "abv": 2.5
+      ]
     },
     {
       "status": "needs_review",
       "name": "Soul Tone Pils",
       "style": "Pilsner",
+      "abv": 2.5,
+      "description": "Crisp and Super-Sessionable German-Style Pilsner",
       "confidence": "local",
       "sources": [
         "inferred",
@@ -1751,9 +1753,7 @@
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "description": "Crisp and Super-Sessionable German-Style Pilsner",
-      "abv": 2.5
+      ]
     },
     {
       "status": "approved",
@@ -2207,18 +2207,18 @@
     {
       "status": "needs_review",
       "name": "Victory Berry Monkey",
+      "style": "Sour Ale",
+      "abv": 9.5,
+      "description": "Soured Belgian Triple Loaded with Fresh Raspberries. Tart, Sweet, Sour and Smooth!",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
-      ],
-      "style": "Sour Ale",
-      "description": "Soured Belgian Triple Loaded with Fresh Raspberries. Tart, Sweet, Sour and Smooth!",
-      "abv": 9.5,
-      "confidence": "local",
-      "sources": [
-        "Mahaffey's public beer sheet"
       ]
     },
     {
