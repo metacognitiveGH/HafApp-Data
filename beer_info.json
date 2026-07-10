@@ -1306,6 +1306,7 @@
       "name": "National Bohemian",
       "brewery": "Pabst Brewing Company",
       "breweryUrl": "https://nationalbohemian.com/pages/beer",
+      "style": "Lager",
       "abv": 4.5,
       "description": "Baltimore's Finest",
       "confidence": "high",
