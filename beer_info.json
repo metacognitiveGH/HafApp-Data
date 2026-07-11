@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-10",
+  "updatedAt": "2026-07-11",
   "source": "Mahaffey's Beer Club curated beer information",
   "beers": [
     {
@@ -121,14 +121,19 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Avery Yuzilla",
+      "aliases": [
+        "Yuzilla"
+      ],
+      "brewery": "Avery Brewing Co.",
+      "breweryUrl": "https://www.averybrewing.com/brews/yuzilla",
       "style": "Fruited Ale",
-      "abv": 4.9,
+      "abv": 5.0,
       "description": "Golden Ale Brewed with Fresh Citrusy Yuzu",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://www.averybrewing.com/brews/yuzilla"
       ],
       "servingTypes": [
         "bottle"
@@ -168,10 +173,14 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Ballad Just Pressed",
       "brewery": "Ballad Brewing",
       "breweryUrl": "https://balladbrewing.com/",
+      "style": "Sour",
+      "abv": 5.5,
+      "description": "Blended whear and sour ale. Tart and sweet, with lime and ginger accent.",
+      "confidence": "high",
       "servingTypes": [
         "bottle"
       ],
@@ -269,12 +278,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Brewer's Alley Kolsch",
+      "brewery": "Brewer's Alley",
+      "breweryUrl": "https://brewers-alley.com/our-beer/",
       "style": "Kolsch",
-      "confidence": "low",
+      "abv": 5.1,
+      "description": "Light body, slightly dry, mild, delicate hop aroma.",
+      "confidence": "high",
       "sources": [
-        "inferred"
+        "https://brewers-alley.com/our-beer/"
       ],
       "servingTypes": [
         "draft"
@@ -420,12 +433,19 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Checkerspot Star Spangled Pilsner",
+      "aliases": [
+        "Star Spangled Pilsener"
+      ],
+      "brewery": "Checkerspot Brewing Company",
+      "breweryUrl": "https://checkerspotbrewing.com/beer/",
       "style": "Pilsner",
-      "confidence": "low",
+      "abv": 4.2,
+      "description": "This recreation of Baltimore's very own American Brewery's Pilsener from 1965 was brewed with beer historian Maureen O'Prey to celebrate 250 years of our country. Brewed based on their recipe using Wisconsin malt and Oregon noble-lineage hops, traditionally step mashed and using a clean lager yeast, this beer is crisp and refreshing.",
+      "confidence": "high",
       "sources": [
-        "inferred"
+        "https://checkerspotbrewing.com/beer/"
       ],
       "servingTypes": [
         "draft"
@@ -501,14 +521,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Firestone Walker Diesel Thunder",
+      "brewery": "Firestone Walker Brewing Company",
+      "breweryUrl": "https://www.firestonewalker.com/our-beers/",
       "style": "Double IPA",
       "abv": 8.0,
       "description": "Double West Coast IPA Full of Resinous/Piney Hops",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://www.firestonewalker.com/beer/diesel-thunder/"
       ],
       "servingTypes": [
         "bottle"
@@ -518,15 +540,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Firestone Walker IPA",
+      "brewery": "Firestone Walker Brewing Company",
+      "breweryUrl": "https://www.firestonewalker.com/our-beers/",
       "style": "IPA",
       "abv": 6.5,
       "description": "One of the Truest Forms of a West Coast IPA on the Market",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "inferred",
-        "Mahaffey's public beer sheet"
+        "https://www.firestonewalker.com/beer/firestone-california-ipa/"
       ],
       "servingTypes": [
         "bottle"
@@ -719,17 +742,18 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Great Lake Rocket Pop",
       "aliases": [
         "Great Lakes Rocket Pop"
       ],
-      "style": "Hard Seltzer",
+      "breweryUrl": "https://www.greatlakesbrewing.com/",
+      "style": "Seltzer",
       "abv": 5.0,
       "description": "Hard Seltzer Inspired by Everyones Favorite Frozen Summer Treat",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://www.greatlakesbrewing.com/rocket-pop-hard-seltzer"
       ],
       "servingTypes": [
         "bottle"
@@ -739,23 +763,21 @@
       ]
     },
     {
-      "status": "needs_review",
-      "name": "Great Lakes Dortmunder",
-      "servingTypes": [
-        "draft"
-      ],
-      "detectedIn": [
-        "next-up:3300"
-      ]
-    },
-    {
       "status": "approved",
-      "name": "Great Lakes Dortmunder Gold",
+      "name": "Great Lakes Dortmunder",
+      "aliases": [
+        "Great Lakes Dortmunder Gold",
+        "Dortmunder Gold"
+      ],
       "brewery": "Great Lakes Brewing Company",
       "breweryUrl": "https://www.greatlakesbrewing.com/",
       "style": "Lager",
       "abv": 5.8,
       "description": "Award-Winning German-Style Lager",
+      "confidence": "high",
+      "sources": [
+        "https://www.greatlakesbrewing.com/dortmunder"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -861,14 +883,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Great Lakes Vibacious",
+      "brewery": "Great Lakes Brewing Company",
+      "breweryUrl": "https://www.greatlakesbrewing.com/",
       "style": "DIPA",
       "abv": 9.0,
       "description": "Remarkably smooth Double IPA packed with feel-good hop character",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://www.greatlakesbrewing.com/vibacious"
       ],
       "servingTypes": [
         "draft"
@@ -878,10 +902,19 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Harpoon Day Drifter",
+      "aliases": [
+        "Day Drifter"
+      ],
       "brewery": "Harpoon Brewery",
       "breweryUrl": "https://www.harpoonbrewery.com/",
+      "abv": 4.8,
+      "description": "Today’s Smoothest IPA – Hear that? That’s the sound of seagulls squabbling over the second half of your sandwich, the waves breaking along the shoreline, and the crack of your first IPA of the day. Utilizing an innovative nitro-dosing brew method, we ensure your first sip is as bright and smooth as your last, crafted for wherever the day takes you",
+      "confidence": "high",
+      "sources": [
+        "https://harpoonbrewery.com/beer/daydrifter/"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -951,8 +984,16 @@
     {
       "status": "needs_review",
       "name": "Hop Lark Zombie Plane",
+      "aliases": [
+        "Zombie Plane",
+        "Zombie Plane Sweeps"
+      ],
       "brewery": "Hoplark",
       "breweryUrl": "https://hoplark.com/",
+      "confidence": "low",
+      "sources": [
+        "https://hoplark.com/pages/zombie-plane-sweeps"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -1074,12 +1115,14 @@
     {
       "status": "needs_review",
       "name": "La Chouffe",
+      "brewery": "La Chouffe",
+      "breweryUrl": "https://chouffe.com/en-us/our-beer/la-chouffe",
       "style": "Belgian Blonde",
       "abv": 8.0,
       "description": "Traditional Belgian Blonde with Lightly Fruity and Citrusy Notes",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://chouffe.com/en-us/our-beer/la-chouffe"
       ],
       "servingTypes": [
         "bottle"
@@ -1321,16 +1364,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "New Trail 8th Orbit",
       "brewery": "New Trail Brewing Company",
       "breweryUrl": "https://www.newtrailbrewing.com/",
       "style": "Triple IPA",
       "abv": 10.8,
       "description": "8th Anniversary Triple Hazy IPA with Citra, Vera, Wai-iti, Motueka and Talus Hops",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://newtrailbrewing.com/beer/8th-orbit-2/"
       ],
       "servingTypes": [
         "bottle"
@@ -1340,10 +1383,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "New Trail Crisp Lime",
       "brewery": "New Trail Brewing Company",
       "breweryUrl": "https://www.newtrailbrewing.com/",
+      "abv": 4.8,
+      "description": "Our Crisp Lager, brewed with a touch of lime for a special summer vibe. Crisp Lager is handmade for easy drinking using only the finest malts, American noble hops and lager yeast in perfect balance for a brilliant golden beer that’s full-flavored, refreshing, and above all, Crisp Lager.",
+      "confidence": "high",
+      "sources": [
+        "https://newtrailbrewing.com/beer/crisp-lime-2/"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -1370,14 +1419,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "New Trail Troutbitten",
+      "brewery": "New Trail Brewing Company",
+      "breweryUrl": "https://www.newtrailbrewing.com/",
       "style": "Hazy IPA",
       "abv": 6.0,
       "description": "Overflowing with stone fruit, drifting sticky pine, and rising tropical",
-      "confidence": "local",
+      "confidence": "medium",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://untappd.com/b/new-trail-brewing-co-troutbitten/5877694"
       ],
       "servingTypes": [
         "draft"
@@ -1478,8 +1529,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Peabody Heights La Fonte",
+      "brewery": "Peabody Heights Brewery",
+      "breweryUrl": "https://peabodyheightsbrewery.com/",
+      "abv": 6.5,
+      "description": "French Hops I Berry I Cold",
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/peabody-heights-brewery-la-fonte/6730521"
+      ],
       "servingTypes": [
         "draft"
       ],
@@ -1488,14 +1547,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Piraat 7",
+      "brewery": "Brouwerij Van Steenberge",
+      "breweryUrl": "https://www.vansteenberge.com/",
       "style": "Belgian Ale",
       "abv": 7.0,
       "description": "Golden Belgian Ale. Balanced Sweet Maltiness",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://www.vansteenberge.com/onze-bieren/piraat/"
       ],
       "servingTypes": [
         "bottle"
@@ -1505,10 +1566,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "RAR From the Patch",
       "brewery": "RAR Brewing",
       "breweryUrl": "https://rarbrewing.com/",
+      "abv": 4.5,
+      "description": "Lager - Fruited",
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/rar-brewing-from-the-patch-watermelon-lager/6701010"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -1611,10 +1678,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Sixpoint Summer Sesh",
       "brewery": "Sixpoint Brewery",
       "breweryUrl": "https://sixpoint.com/",
+      "abv": 5.3,
+      "description": "Summer Sesh brings the chill when the season’s heating up. Crisp, light, and ready to crush whether you’re waterside or cityside",
+      "confidence": "high",
+      "sources": [
+        "https://sixpoint.com/beers/summer-sesh/"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -1623,16 +1696,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Sloop Berry Cruiser",
       "brewery": "Sloop Brewing Co.",
       "breweryUrl": "https://sloopbrewing.com/",
       "style": "Golden Ale",
       "abv": 4.2,
-      "description": "Easy-Drinking Golden Ale with Fresh Berries!",
-      "confidence": "local",
+      "description": "A light and crushable Golden Ale brewed with juicy blueberry and raspberry notes. Bright, fruity, and easygoing",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://www.sloopbrewing.com/berry-cruiser"
       ],
       "servingTypes": [
         "bottle"
@@ -1704,8 +1777,10 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Smuttynose Blackberry Ale",
+      "brewery": "Smuttynose Brewing Company",
+      "breweryUrl": "https://smuttynose.com/smuttynose-beers/",
       "style": "Fruit Ale",
       "abv": 5.2,
       "description": "Easy-Drinking Ale Infused with Fresh Blackberries. Perfect Summer Refresher!",
@@ -1721,8 +1796,10 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Soul Tone IPA",
+      "brewery": "Soul Tone Beer",
+      "breweryUrl": "https://soultonebeer.com/",
       "style": "IPA",
       "abv": 2.5,
       "description": "West-Coast Style IPA that is Super Sessionable",
@@ -1739,8 +1816,10 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Soul Tone Pils",
+      "brewery": "Soul Tone Beer",
+      "breweryUrl": "https://soultonebeer.com/",
       "style": "Pilsner",
       "abv": 2.5,
       "description": "Crisp and Super-Sessionable German-Style Pilsner",
@@ -2034,10 +2113,14 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Trappistes Rochefort",
       "brewery": "Brasserie de Rochefort",
       "breweryUrl": "https://www.trappistes-rochefort.com/",
+      "confidence": "medium",
+      "sources": [
+        "https://www.trappistes-rochefort.com/en/the-brewery/"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -2206,14 +2289,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Victory Berry Monkey",
+      "brewery": "Victory Brewing Company",
+      "breweryUrl": "https://victorybeer.com/",
       "style": "Sour Ale",
       "abv": 9.5,
       "description": "Soured Belgian Triple Loaded with Fresh Raspberries. Tart, Sweet, Sour and Smooth!",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://victorybeer.com/beers/berry-monkey/"
       ],
       "servingTypes": [
         "bottle"
