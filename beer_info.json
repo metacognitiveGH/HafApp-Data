@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-11",
+  "updatedAt": "2026-07-12",
   "source": "Mahaffey's Beer Club curated beer information",
   "beers": [
     {
@@ -92,6 +92,24 @@
     },
     {
       "status": "approved",
+      "name": "Abomination Juice Monster",
+      "brewery": "Abomination Juice Monster",
+      "style": "Hazy IPA",
+      "abv": 6.8,
+      "description": "A Juicy, Hazy Behemoth of an New England IPA",
+      "confidence": "medium",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
       "name": "Allagash White",
       "aliases": [
         "Allagash Belgian White",
@@ -118,6 +136,22 @@
       ],
       "detectedIn": [
         "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Austin Eastsiders Brazilian Limeade",
+      "brewery": "Austin Eastciders",
+      "breweryUrl": "https://austineastciders.com/",
+      "style": "Hard Limeade",
+      "abv": 6.5,
+      "description": "Tangy, Tropical and Totally Crushable! Gluten Free!",
+      "confidence": "high",
+      "sources": [
+        "https://austineastciders.com/products/austin-eastcider-brazilian-limeade"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
       ]
     },
     {
@@ -279,6 +313,24 @@
     },
     {
       "status": "approved",
+      "name": "Brewer's Alley 30th Anniversary",
+      "breweryUrl": "https://brewers-alley.com/",
+      "style": "Pale Ale - American",
+      "abv": 6.0,
+      "description": "It's pale, hoppy, refreshing and showcases some classic American hops",
+      "confidence": "high",
+      "sources": [
+        "https://brewers-alley.com/event/30th-anniversary-beer-dinner/"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
       "name": "Brewer's Alley Kolsch",
       "brewery": "Brewer's Alley",
       "breweryUrl": "https://brewers-alley.com/our-beer/",
@@ -390,11 +442,18 @@
     {
       "status": "approved",
       "name": "Burnish Extra Shine",
+      "aliases": [
+        "Extra Shine"
+      ],
       "brewery": "Burnish Beer Company",
       "breweryUrl": "https://burnishbeerco.com/",
       "style": "American IPA",
-      "abv": 7.2,
+      "abv": 7.8,
+      "description": "grapefruit and citrus",
       "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/burnish-beer-co-extra-shine/4876088"
+      ],
       "servingTypes": [
         "draft"
       ],
@@ -459,10 +518,30 @@
       "name": "Cigar City Aruba Red",
       "brewery": "Cigar City Brewing",
       "breweryUrl": "https://www.cigarcitybrewing.com/",
+      "style": "Res",
       "abv": 5.5,
       "confidence": "medium",
       "sources": [
         "Aruba Red - Cigar City Brewing® - Untappd"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Civil Society Hop Session #11",
+      "brewery": "Civil Society Brewing",
+      "breweryUrl": "https://civilsocietybrewing.com/",
+      "style": "IPA - Imperial / Double",
+      "abv": 8.3,
+      "description": "Double India Pale Ale hopped with Citra, El Dorado and Strata",
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/civil-society-brewing-hop-sessions-15/6773473"
       ],
       "servingTypes": [
         "draft"
@@ -502,6 +581,20 @@
       ]
     },
     {
+      "status": "exclude",
+      "name": "Dad Water",
+      "style": "Tequila Cocktail",
+      "abv": 5.25,
+      "description": "Fruit Infused Tequila Water. Zero Carbonation. Zero Sugar. Zero Carbs. Flavors Available.",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
       "status": "approved",
       "name": "Dewey Pale Ale",
       "brewery": "Dewey Beer Co",
@@ -518,6 +611,73 @@
       ],
       "detectedIn": [
         "next-up:3300"
+      ]
+    },
+    {
+      "status": "exclude",
+      "name": "Dunkin' Spiked Coffee",
+      "brewery": "Harpoon Brewery",
+      "breweryUrl": "https://dunkinspiked.com/",
+      "style": "Not Beer",
+      "abv": 6.0,
+      "description": "Dunkin’ Spiked Iced coffees are sweet, vibrant with lively flavors",
+      "confidence": "local",
+      "sources": [
+        "https://dunkinspiked.com/"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Fat Orange Cat Kittens Summer Ale",
+      "aliases": [
+        "Kittens Summer Ale"
+      ],
+      "brewery": "Fat Orange Cat Brew Co.",
+      "breweryUrl": "https://fatorangecatbrewco.square.site/",
+      "style": "Pale Wheat Ale",
+      "abv": 5.0,
+      "description": "American Pale Wheat Ale with Citrus and Spices",
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/fat-orange-cat-brew-co-kittens-summer-ale/5792884"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Firestone Easy Jack",
+      "brewery": "Firestone Walker Brewing Company",
+      "breweryUrl": "https://www.firestonewalker.com/our-beers/",
+      "style": "IPA",
+      "abv": 4.2,
+      "description": "Vibrant Citrus and Tropical Hop notes in this Easy Drinking IPA",
+      "confidence": "high",
+      "sources": [
+        "https://www.firestonewalker.com/beer/easy-jack/"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Firestone Union Jack",
+      "brewery": "Firestone Walker Brewing Company",
+      "breweryUrl": "https://www.firestonewalker.com/our-beers/",
+      "style": "West Coast IPA",
+      "abv": 7.0,
+      "description": "Traditional, Bitter, West Coast IPA with notes of Pine and Grapefruit",
+      "confidence": "high",
+      "sources": [
+        "https://www.firestonewalker.com/beer/union-jack/"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
       ]
     },
     {
@@ -559,16 +719,19 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "First State Cosmic Justice",
+      "aliases": [
+        "Cosmic Justice"
+      ],
       "brewery": "First State Brewing Company",
       "breweryUrl": "https://www.firststatebrewing.com/",
       "style": "Mexican Lager",
       "abv": 5.5,
-      "description": "Light Mexican Lager Collab with New Ridge Brewing and Malteurop Malting Company",
-      "confidence": "local",
+      "description": "Light Mexican Lager Collab with New Ridge Brewing and Malteurop Malting Company. soft malty aromatics, a subtle sweetness, hints of nuttiness, and a light golden straw hue to the glass",
+      "confidence": "high",
       "sources": [
-        "Mahaffey's public beer sheet"
+        "https://www.firststatebrewing.com/beer/"
       ],
       "servingTypes": [
         "bottle"
@@ -578,15 +741,30 @@
       ]
     },
     {
+      "status": "exclude",
+      "name": "Florida Seltzers (Ask for Flavors)",
+      "style": "Hard Seltzer",
+      "abv": 5.0,
+      "description": "The Best Hard Sezlters Around. Made with Real Fruit!!!",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
       "status": "approved",
       "name": "Flying Fish Escape",
       "brewery": "Flying Fish Brewing Company",
       "breweryUrl": "https://flyingfish.com/",
       "style": "IPA - Imperial / Double",
       "abv": 8.1,
-      "confidence": "medium",
+      "description": "Bright tropical, juicy ctirus, celebration",
+      "confidence": "high",
       "sources": [
-        "Escape - Flying Fish Brewing Co. - Untappd"
+        "https://www.flyingfish.com/beers/escape"
       ],
       "servingTypes": [
         "draft"
@@ -779,7 +957,8 @@
         "https://www.greatlakesbrewing.com/dortmunder"
       ],
       "servingTypes": [
-        "bottle"
+        "bottle",
+        "draft"
       ],
       "detectedIn": [
         "next-up:3300"
@@ -982,7 +1161,7 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Hop Lark Zombie Plane",
       "aliases": [
         "Zombie Plane",
@@ -990,15 +1169,33 @@
       ],
       "brewery": "Hoplark",
       "breweryUrl": "https://hoplark.com/",
-      "confidence": "low",
+      "style": "Non-Alcohilic",
+      "abv": 0.0,
+      "description": "Citrusy Blood Orange, Dry Hopped Non-alcoholic Beverage",
+      "confidence": "local",
       "sources": [
-        "https://hoplark.com/pages/zombie-plane-sweeps"
+        "https://hoplark.com/pages/zombie-plane-sweeps",
+        "Mahaffey's public beer sheet"
       ],
       "servingTypes": [
         "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
+      ]
+    },
+    {
+      "status": "exclude",
+      "name": "Hop WTR Blood Orange",
+      "style": "Sparkling NA",
+      "abv": 0.0,
+      "description": "Hop Infused Sparkling Water with Fresh Blood Orange",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
       ]
     },
     {
@@ -1052,6 +1249,22 @@
       ],
       "detectedIn": [
         "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Jack's Abby Fudge Brownie",
+      "brewery": "Jack's Abby Brewing",
+      "breweryUrl": "https://jacksabby.com/#",
+      "style": "Porter",
+      "abv": 9.0,
+      "description": "Thick, Creamy Porter with notes of Coffee and Fudge.",
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/jack-s-abby-craft-lagers-framinghammer-fudge-brownie-2025/6496353"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
       ]
     },
     {
@@ -1113,7 +1326,7 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "La Chouffe",
       "brewery": "La Chouffe",
       "breweryUrl": "https://chouffe.com/en-us/our-beer/la-chouffe",
@@ -1139,10 +1352,9 @@
       "style": "Fruited Sour",
       "abv": 8.0,
       "description": "Oak Aged Sour Blended with a Belgian Strong Ale. Tropical Notes of Mango, Lime & Melons",
-      "confidence": "local",
+      "confidence": "high",
       "sources": [
-        "https://www.beeradvocate.com/beer/profile/187/731343/",
-        "Mahaffey's public beer sheet"
+        "https://lindemans.be/en-us/pages/lindemans-dor-strong-fruit-beer"
       ],
       "servingTypes": [
         "bottle"
@@ -1315,6 +1527,20 @@
       ]
     },
     {
+      "status": "exclude",
+      "name": "MY5 The Original or Tangerine",
+      "style": "Not Beer",
+      "abv": 4.5,
+      "description": "Egg Custard Snowball Inspired or Tangerine, Vodka Based, Non-Carbonated, Local",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
       "status": "approved",
       "name": "Narragansett",
       "aliases": [
@@ -1403,13 +1629,17 @@
     {
       "status": "approved",
       "name": "New Trail Tangier Shades",
+      "aliases": [
+        "Tangier Shades"
+      ],
       "brewery": "New Trail Brewing Company",
       "breweryUrl": "https://www.newtrailbrewing.com/",
       "style": "IPA - New England / Hazy",
       "abv": 6.0,
-      "confidence": "medium",
+      "description": "Tangier Shades is Brewed with heaps of Oats and hopped with Tangier\r\nhops. Expect high notes of citrus flesh complimented with notes of fruit and a creamsicle finish.",
+      "confidence": "high",
       "sources": [
-        "https://untappd.com/b/new-trail-brewing-co-tangier-shades/6708577"
+        "https://newtrailbrewing.com/beer/tangier-shades-2/"
       ],
       "servingTypes": [
         "draft"
@@ -1432,6 +1662,28 @@
       ],
       "servingTypes": [
         "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Offshoot Beer Co. Relax",
+      "aliases": [
+        "Relax"
+      ],
+      "brewery": "Offshoot Beer Co",
+      "breweryUrl": "https://www.beerdrop.com/",
+      "style": "IPA - New England",
+      "abv": 6.5,
+      "description": "Straight-Forward Hazy IPA with a Light Enough ABV for the Summertime Heat",
+      "confidence": "medium",
+      "sources": [
+        "https://www.beerdrop.com/flavors/hoppy/offshoot-beer-co-relax-16oz-can.html"
+      ],
+      "servingTypes": [
+        "bottle"
       ],
       "detectedIn": [
         "next-up:3300"
@@ -1570,6 +1822,7 @@
       "name": "RAR From the Patch",
       "brewery": "RAR Brewing",
       "breweryUrl": "https://rarbrewing.com/",
+      "style": "Lager - Fruited",
       "abv": 4.5,
       "description": "Lager - Fruited",
       "confidence": "medium",
@@ -1581,6 +1834,35 @@
       ],
       "detectedIn": [
         "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Right Proper Big Tomorrow",
+      "brewery": "Right Proper Brewing Company",
+      "breweryUrl": "https://www.rightproperbrewing.com/our-beer",
+      "style": "IPA",
+      "abv": 7.2,
+      "description": "Brilliant Bright West-coast Style IPA with Pilsner Malts",
+      "confidence": "high",
+      "sources": [
+        "https://www.rightproperbrewing.com/our-beer"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
+      "status": "exclude",
+      "name": "Rotating Craft Ciders",
+      "style": "Cider",
+      "description": "Ask For What Flavors Are Available",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
       ]
     },
     {
@@ -1837,6 +2119,27 @@
     },
     {
       "status": "approved",
+      "name": "South County All Anchovy",
+      "aliases": [
+        "All Anchovy"
+      ],
+      "brewery": "South County Brewing Co.",
+      "breweryUrl": "https://southcountybrewing.com/",
+      "style": "IPA - American",
+      "abv": 6.5,
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/south-county-brewing-co-all-anchovy-ipa/6757512"
+      ],
+      "servingTypes": [
+        "draft"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
       "name": "South County Automatic Fantastic - Blackberry",
       "aliases": [
         "Automatic Fantastic"
@@ -1881,6 +2184,70 @@
         "untappd.com"
       ],
       "notes": "Second-pass validation using Untappd as supporting source.",
+      "servingTypes": [
+        "bottle"
+      ],
+      "detectedIn": [
+        "next-up:3300"
+      ]
+    },
+    {
+      "status": "exclude",
+      "name": "Sun Cruiser Classic Iced Tea",
+      "style": "Hard Tea",
+      "abv": 4.5,
+      "description": "Spiked Sweet Tea. Gluten Free. 100 Calories. 0 Bubbles.",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
+      "status": "exclude",
+      "name": "Super Lyte",
+      "style": "RTD",
+      "abv": 4.5,
+      "description": "Vodka Based, Gaterade Inspired. 0 Sugar, 0 Carbonation, 90 Calories",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
+      "status": "exclude",
+      "name": "Surfside Tea",
+      "aliases": [
+        "Surfside Tea (Variety)"
+      ],
+      "style": "Spiked Tea",
+      "abv": 5.0,
+      "description": "Made with vodka, real tea, real juice, has only 100 calories",
+      "confidence": "local",
+      "sources": [
+        "https://www.trappistes-rochefort.com/en/beer/triple-extra/"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "The Veil Pretty",
+      "brewery": "The Veil Brewing Co.",
+      "breweryUrl": "https://www.theveilbrewing.com/home",
+      "style": "Saison",
+      "abv": 6.0,
+      "description": "Open Fermented, Can Conditioned, 4 Grain Saison. Somewhat Sweet Start with a Dry Finish",
+      "confidence": "local",
+      "sources": [
+        "Mahaffey's public beer sheet"
+      ],
       "servingTypes": [
         "bottle"
       ],
@@ -1939,10 +2306,9 @@
         "malty",
         "balanced"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "sources": [
-        "tgbrews.com",
-        "untappd.com"
+        "https://halftimebeverage.com/toppling-goliath-dorothy-64-22207"
       ],
       "notes": "Second-pass validation using Untappd as supporting source.",
       "servingTypes": [
@@ -2058,7 +2424,7 @@
       "brewery": "Toppling Goliath Brewing Co.",
       "breweryUrl": "https://www.tgbrews.com/",
       "style": "Hefeweizen",
-      "abv": 5.5,
+      "abv": 5.6,
       "description": "A German-style wheat beer with soft wheat malt, banana-clove yeast character, and a smooth finish.",
       "tags": [
         "hefeweizen",
@@ -2067,10 +2433,9 @@
         "banana",
         "clove"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "sources": [
-        "tgbrews.com",
-        "untappd.com"
+        "https://www.tastings.com/Beer-Review/Toppling-Goliath-Munich-Weiss-USA-12-16-2023.aspx"
       ],
       "notes": "Second-pass validation using Untappd as supporting source.",
       "servingTypes": [
@@ -2113,7 +2478,7 @@
       ]
     },
     {
-      "status": "approved",
+      "status": "needs_review",
       "name": "Trappistes Rochefort",
       "brewery": "Brasserie de Rochefort",
       "breweryUrl": "https://www.trappistes-rochefort.com/",
@@ -2126,6 +2491,25 @@
       ],
       "detectedIn": [
         "next-up:3300"
+      ]
+    },
+    {
+      "status": "approved",
+      "name": "Trappistes Rochefort Tripel Extra",
+      "aliases": [
+        "Trappistes Rochefort Tripel Extra ($15)"
+      ],
+      "brewery": "Brasserie de Rochefort",
+      "breweryUrl": "https://www.trappistes-rochefort.com/",
+      "style": "Belgian Tripel",
+      "abv": 8.1,
+      "description": "Newest Ale Brewed by the Monks of Rochefort. Light in Color with Amazing Belgian Goodness",
+      "confidence": "high",
+      "sources": [
+        "https://www.trappistes-rochefort.com/en/beer/triple-extra/"
+      ],
+      "detectedIn": [
+        "mahaffeys-public-beer-list"
       ]
     },
     {
@@ -2213,11 +2597,16 @@
       ]
     },
     {
-      "status": "needs_review",
+      "status": "approved",
       "name": "Union Greetings From Union",
       "brewery": "Union Craft Brewing",
       "breweryUrl": "https://unioncraftbrewing.com/",
-      "confidence": "low",
+      "abv": 3.3,
+      "description": "IPA loaded with ruby red grapefruit, mandarin orange, green tea, and a crisp bitter finish.",
+      "confidence": "medium",
+      "sources": [
+        "https://untappd.com/b/union-craft-brewing-greetings-from-union/6738693"
+      ],
       "notes": "Restored after duplicate correction; not populated until exact beer identity is verified.",
       "servingTypes": [
         "bottle"
