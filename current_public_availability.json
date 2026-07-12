@@ -1,109 +1,211 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-07-12T20:17:17.039484Z",
+  "schemaVersion": 2,
+  "updatedAt": "2026-07-12T21:28:04.422998Z",
   "source": "Mahaffey's public beer sheet",
   "beers": [
     {
-      "name": "Austin Eastsiders Brazilian Limeade"
+      "sourceName": "Austin Eastsiders Brazilian Limeade",
+      "displayName": "Austin Eastsiders Brazilian Limeade",
+      "comparisonKey": "austineastsidersbrazilianlimeade",
+      "matchStatus": "exact"
     },
     {
-      "name": "Allagash White"
+      "sourceName": "Allagash White",
+      "displayName": "Allagash White",
+      "comparisonKey": "allagashwhite",
+      "matchStatus": "exact"
     },
     {
-      "name": "Jack's Abby Framinghammer Tiramisu"
+      "sourceName": "Jack's Abby Framinghammer Tiramisu",
+      "displayName": "Jack's Abby Framinghammer Tiramisu",
+      "comparisonKey": "jacksabbyframinghammertiramisu",
+      "matchStatus": "exact"
     },
     {
-      "name": "Southern Tier Cheat Day"
+      "sourceName": "Southern Tier Cheat Day",
+      "displayName": "Southern Tier Cheat Day",
+      "comparisonKey": "southerntiercheatday",
+      "matchStatus": "exact"
     },
     {
-      "name": "New Trail 8th Orbit (16oz, $10)"
+      "sourceName": "New Trail 8th Orbit (16oz, $10)",
+      "displayName": "New Trail 8th Orbit",
+      "comparisonKey": "newtrail8thorbit",
+      "matchStatus": "presentation_match"
     },
     {
-      "name": "Great Lakes Rally Drum"
+      "sourceName": "Great Lakes Rally Drum",
+      "displayName": "Great Lakes Rally Drum",
+      "comparisonKey": "greatlakesrallydrum",
+      "matchStatus": "exact"
     },
     {
-      "name": "Freedom Brew Lemon Shandy"
+      "sourceName": "Freedom Brew Lemon Shandy",
+      "displayName": "Freedom Brew Lemon Shandy",
+      "comparisonKey": "freedombrewlemonshandy",
+      "matchStatus": "exact"
     },
     {
-      "name": "Trappistes Rochefort Tripel Extra"
+      "sourceName": "Trappistes Rochefort Tripel Extra ($15)",
+      "displayName": "Trappistes Rochefort Tripel Extra",
+      "comparisonKey": "trappistesrocheforttripelextra",
+      "matchStatus": "exact"
     },
     {
-      "name": "Ayinger Altbairisch Dunkel (16.9oz, $10)"
+      "sourceName": "Ayinger Altbairisch Dunkel (16.9oz, $10)",
+      "displayName": "Ayinger Altbairisch Dunkel",
+      "comparisonKey": "ayingeraltbairischdunkel",
+      "matchStatus": "presentation_match"
     },
     {
-      "name": "Traquair Jacobite Ale ($13.50)"
+      "sourceName": "Traquair Jacobite Ale ($13.50)",
+      "displayName": "Traquair Jacobite Ale",
+      "comparisonKey": "traquairjacobiteale",
+      "matchStatus": "presentation_match"
     },
     {
-      "name": "First State Cosmic Justice"
+      "sourceName": "First State Cosmic Justice",
+      "displayName": "First State Cosmic Justice",
+      "comparisonKey": "firststatecosmicjustice",
+      "matchStatus": "exact"
     },
     {
-      "name": "Firestone Walker IPA"
+      "sourceName": "Firestone Walker IPA",
+      "displayName": "Firestone Walker IPA",
+      "comparisonKey": "firestonewalkeripa",
+      "matchStatus": "exact"
     },
     {
-      "name": "Victory Prima Light"
+      "sourceName": "Victory Prima Light",
+      "displayName": "Victory Prima Light",
+      "comparisonKey": "victoryprimalight",
+      "matchStatus": "exact"
     },
     {
-      "name": "Abita 40th Anniversary"
+      "sourceName": "Abita 40th Anniversary",
+      "displayName": "Abita 40th Anniversary",
+      "comparisonKey": "abita40thanniversary",
+      "matchStatus": "exact"
     },
     {
-      "name": "Oskar Blues Dale's American IPA"
+      "sourceName": "Oskar Blues Dale's American IPA",
+      "displayName": "Oskar Blues Dale's American IPA",
+      "comparisonKey": "oskarbluesdalesamericanipa",
+      "matchStatus": "exact"
     },
     {
-      "name": "Firestone Walker Diesel Thunder"
+      "sourceName": "Firestone Walker Diesel Thunder",
+      "displayName": "Firestone Walker Diesel Thunder",
+      "comparisonKey": "firestonewalkerdieselthunder",
+      "matchStatus": "exact"
     },
     {
-      "name": "Great Lakes Dortmunder"
+      "sourceName": "Great Lakes Dortmunder Gold",
+      "displayName": "Great Lakes Dortmunder",
+      "comparisonKey": "greatlakesdortmunder",
+      "matchStatus": "exact"
     },
     {
-      "name": "Jack's Abby Framinghammer Salted Caramel"
+      "sourceName": "Jack's Abby Framinghammer Salted Caramel",
+      "displayName": "Jack's Abby Framinghammer Salted Caramel",
+      "comparisonKey": "jacksabbyframinghammersaltedcaramel",
+      "matchStatus": "exact"
     },
     {
-      "name": "Piraat 7 (16.9oz, $10)"
+      "sourceName": "Piraat 7 (16.9oz, $10)",
+      "displayName": "Piraat 7",
+      "comparisonKey": "piraat7",
+      "matchStatus": "presentation_match"
     },
     {
-      "name": "Soul Tone IPA"
+      "sourceName": "Soul Tone IPA",
+      "displayName": "Soul Tone IPA",
+      "comparisonKey": "soultoneipa",
+      "matchStatus": "exact"
     },
     {
-      "name": "Avery Yuzilla"
+      "sourceName": "Avery Yuzilla",
+      "displayName": "Avery Yuzilla",
+      "comparisonKey": "averyyuzilla",
+      "matchStatus": "exact"
     },
     {
-      "name": "Smuttynose Blackberry Ale (16oz)"
+      "sourceName": "Smuttynose Blackberry Ale (16oz)",
+      "displayName": "Smuttynose Blackberry Ale",
+      "comparisonKey": "smuttynoseblackberryale",
+      "matchStatus": "presentation_match"
     },
     {
-      "name": "Soul Tone Pils"
+      "sourceName": "Soul Tone Pils",
+      "displayName": "Soul Tone Pils",
+      "comparisonKey": "soultonepils",
+      "matchStatus": "exact"
     },
     {
-      "name": "La Chouffe (16.9oz, $10)"
+      "sourceName": "La Chouffe (16.9oz, $10)",
+      "displayName": "La Chouffe",
+      "comparisonKey": "lachouffe",
+      "matchStatus": "presentation_match"
     },
     {
-      "name": "Victory Berry Monkey"
+      "sourceName": "Victory Berry Monkey",
+      "displayName": "Victory Berry Monkey",
+      "comparisonKey": "victoryberrymonkey",
+      "matchStatus": "exact"
     },
     {
-      "name": "Hop Lark Zombie Plane"
+      "sourceName": "Hoplark Zombie Plane",
+      "displayName": "Hop Lark Zombie Plane",
+      "comparisonKey": "hoplarkzombieplane",
+      "matchStatus": "exact"
     },
     {
-      "name": "Firestone Union Jack"
+      "sourceName": "Firestone Union Jack",
+      "displayName": "Firestone Union Jack",
+      "comparisonKey": "firestoneunionjack",
+      "matchStatus": "exact"
     },
     {
-      "name": "Firestone Easy Jack"
+      "sourceName": "Firestone Easy Jack",
+      "displayName": "Firestone Easy Jack",
+      "comparisonKey": "firestoneeasyjack",
+      "matchStatus": "exact"
     },
     {
-      "name": "Jack's Abby Fudge Brownie"
+      "sourceName": "Jack's Abby Fudge Brownie",
+      "displayName": "Jack's Abby Fudge Brownie",
+      "comparisonKey": "jacksabbyfudgebrownie",
+      "matchStatus": "exact"
     },
     {
-      "name": "Right Proper Big Tomorrow"
+      "sourceName": "Right Proper Big Tomorrow",
+      "displayName": "Right Proper Big Tomorrow",
+      "comparisonKey": "rightproperbigtomorrow",
+      "matchStatus": "exact"
     },
     {
-      "name": "Fat Orange Cat Kittens Summer Ale"
+      "sourceName": "Fat Orange Cat Kittens Summer Ale",
+      "displayName": "Fat Orange Cat Kittens Summer Ale",
+      "comparisonKey": "fatorangecatkittenssummerale",
+      "matchStatus": "exact"
     },
     {
-      "name": "Offshoot Beer Co. Relax"
+      "sourceName": "Offshoot Beer Co. Relax",
+      "displayName": "Offshoot Beer Co. Relax",
+      "comparisonKey": "offshootbeercorelax",
+      "matchStatus": "exact"
     },
     {
-      "name": "Abomination Juice Monster (16oz)"
+      "sourceName": "Abomination Juice Monster (16oz)",
+      "displayName": "Abomination Juice Monster",
+      "comparisonKey": "abominationjuicemonster",
+      "matchStatus": "presentation_match"
     },
     {
-      "name": "The Veil Pretty"
+      "sourceName": "The Veil Pretty",
+      "displayName": "The Veil Pretty",
+      "comparisonKey": "theveilpretty",
+      "matchStatus": "exact"
     }
   ]
 }
